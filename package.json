@@ -1,6 +1,7 @@
 {
   "name": "authenticationApp",
   "dependencies": {
+    "bcrypt": "^0.8.0",
     "body-parser": "^1.9.3",
     "express": "^4.10.4",
     "jwt-simple": "^0.2.0",
